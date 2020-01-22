@@ -1,0 +1,58 @@
+body, html{
+    font-family: 'Open Sans', sans-serif;
+    background-color:  #f9fafc;
+    }
+
+  
+ a{
+     text-decoration: none;
+     color: #69696a;
+      }  
+
+a:visited{
+    color: #69696a;
+
+}
+
+ header{
+     text-decoration: none;
+ }
+
+ .chirpus1{
+     font-size: 16px;
+ }
+
+ ul,li{
+     text-decoration: none;
+     list-style: none;
+     padding: 3px;
+     
+ } 
+ .hire{
+     background-color: #000;
+     font-family: 'Open Sans', sans-serif;
+     font: 20px;
+     color: #FFF;
+     border-radius: 20px;
+     width: 100%;
+     padding: 10px;
+     text-align: center;
+
+ }
+
+ .scroll{
+    background-color: #000;
+    color: #FFF;
+    font: 20px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+p{
+    border-left: 2px  solid #69696a;
+    padding-left: 10px;
+
+}
